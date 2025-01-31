@@ -29,6 +29,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Thank you
 
-I hope you found the project useful and interesting.
-
--- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
